@@ -1,0 +1,22 @@
+.image-class {
+    cursor: pointer;
+    width: 160px;
+    height: 190px;
+    object-fit: cover;
+}
+
+.image-class:hover {
+    opacity: .9;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+.input-no-borders {
+    border: 0;
+}
+
+.input-ar {
+    direction: rtl;
+}
